@@ -11,7 +11,7 @@ I have always loved everything that has to do with technology but I'm also a hug
 * 🧠  I'm learning Kubernetes
 * 📖 You can find my <a href="https://drive.google.com/file/d/15_AAaEfSLF4IhzSaR1LoDLQyPVHsQzQD/view?usp=sharing%22%3EHERE"><b>CV</b></a>
 
-### Skills
+### Tech Stack
 
 <p> Back End </p>
 

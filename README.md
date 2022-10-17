@@ -6,11 +6,14 @@ Junior FullStack Developer
 
 I have always loved everything that has to do with technology, and I'm also a huge fan of sports and have practiced a wide range of sports. I started to become fascinated with programming from an early age because I was always curious to how robots, games and programs worked,and had tried to learn programming languages from YouTube when I was younger, that curiosity was what made me try to find an opportunity in programming. Recently I became a Junior Full Stack Developer and just completed an Intensive Bootcamp @ Academia de Código, now I'm looking for my first opportunity to work in this field, in the meantime I've been doing other courses in different learning platforms and some of my own projects.
 
+<br/>
+
 * 🌍  I'm based in Setúbal, Portugal
 * ✉️  You can contact me @ [Email](mailto:pedro_campos7@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/pedroccampos/)
 * 🧠  I'm learning Kubernetes
 * 📖  Here you can find my <a href="https://drive.google.com/file/d/15_AAaEfSLF4IhzSaR1LoDLQyPVHsQzQD/view?usp=sharing%22%3EHERE"><b>CV</b></a>
 * 💼  I'm currently looking for a job
+
 
 ### Tech Stack
 
@@ -50,6 +53,10 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=50 width=50></td>
 </tr>
 </table>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-CCampos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Socials

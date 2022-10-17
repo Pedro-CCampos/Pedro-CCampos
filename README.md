@@ -34,7 +34,7 @@ I recently became a Junior FullStack Developer and i recently finished an Intens
 
 <table>
 <tr>
-<th>Javascript</th>
+<th>JavaScript</th>
 <th>jQuery</th>
 <th>HTML</th>
 <th>CSS</th>
@@ -42,7 +42,7 @@ I recently became a Junior FullStack Developer and i recently finished an Intens
 </tr>
 <tr>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height=50 width=50></td>
-<td align="center"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-icon.svg" height=50 width=50></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/72756958/196269480-c6d70b96-0268-4e52-874b-b8ad6bfed4e6.png" height=50 width=50></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50 width=50></td>
 <td align="center"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=50 width=50></td>
@@ -52,4 +52,4 @@ I recently became a Junior FullStack Developer and i recently finished an Intens
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Pedro-CCampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedroccampos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Pedro-CCampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> <a href="https://www.linkedin.com/in/pedroccampos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>

@@ -12,15 +12,42 @@ I recently became a Junior FullStack Developer and i recently finished an Intens
 
 ### Skills
 
+<p> Back End </p>
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+<table>
+<tr>
+<th>Java</th>
+<th>Spring</th>
+<th>Hibernate</th>
+<th>MySQL</th>
+
+</tr>
+<tr>
+<td align="center"><img align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height=50 width=50></td>
+<td align="center"><img align="center" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" height=50 width=50></td>
+<td align="center"><img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" height=50 width=50></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height=50 width=50></td>
+</tr>
+</table>
+
+<p> Front End </p>
+
+<table>
+<tr>
+<th>Javascript</th>
+<th>jQuery</th>
+<th>HTML</th>
+<th>CSS</th>
+<th>Bootstrap</th>
+</tr>
+<tr>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height=50 width=50></td>
+<td align="center"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-icon.svg" height=50 width=50></td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50 width=50></td>
+<td align="center"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height=50 width=50></td>
+<td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=50 width=50></td>
+</tr>
+</table>
 
 
 ### Socials

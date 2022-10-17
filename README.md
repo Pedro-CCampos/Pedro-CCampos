@@ -9,7 +9,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 * 🌍  I'm based in Setúbal, Portugal
 * ✉️  You can contact me at [pedro\_campos7@hotmail.com](mailto:pedro_campos7@hotmail.com)
 * 🧠  I'm learning Kubernetes
-* 📖 You can find my <a href="https://drive.google.com/file/d/15_AAaEfSLF4IhzSaR1LoDLQyPVHsQzQD/view?usp=sharing%22%3EHERE"><b>CV</b></a>
+* 📖 Here you can find my <a href="https://drive.google.com/file/d/15_AAaEfSLF4IhzSaR1LoDLQyPVHsQzQD/view?usp=sharing%22%3EHERE"><b>CV</b></a>
 * 💼 I'm currently looking for a job
 
 ### Tech Stack

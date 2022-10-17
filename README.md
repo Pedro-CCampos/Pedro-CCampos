@@ -9,6 +9,7 @@ I recently became a Junior FullStack Developer and just completed an Intensive B
 * 🌍  I'm based in Setúbal, Portugal
 * ✉️  You can contact me at [pedro\_campos7@hotmail.com](mailto:pedro_campos7@hotmail.com)
 * 🧠  I'm learning Kubernetes
+* 📖 You can find my <b>CV</b> <a href="https://drive.google.com/file/d/15_AAaEfSLF4IhzSaR1LoDLQyPVHsQzQD/view?usp=sharing%22%3EHERE"</a>
 
 ### Skills
 

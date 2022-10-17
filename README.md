@@ -4,7 +4,7 @@ Hi my name is Pedro Campos ![](https://user-images.githubusercontent.com/1835055
 Junior FullStack Developer
 --------------------------
 
-I recently became a Junior FullStack Developer and just completed an Intensive Bootcamp @ Academia de Código, now I'm looking for my first opportunity to work in this field, in the meantime I've been doing other courses in different learning platforms and some of my own projects.
+I have always loved everything that has to do with technology but I'm also a huge fan of sports, and started to become fascinated with programming from an early age and recently became a Junior FullStack Developer and just completed an Intensive Bootcamp @ Academia de Código, now I'm looking for my first opportunity to work in this field, in the meantime I've been doing other courses in different learning platforms and some of my own projects.
 
 * 🌍  I'm based in Setúbal, Portugal
 * ✉️  You can contact me at [pedro\_campos7@hotmail.com](mailto:pedro_campos7@hotmail.com)

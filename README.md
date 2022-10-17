@@ -14,7 +14,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 
 ### Tech Stack
 
-<p> Back End </p>
+<p><b>Back End</b></p>
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 </tr>
 </table>
 
-<p> Front End </p>
+<p><b>Front End</b></p>
 
 <table>
 <tr>

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior FullStack Developer
 --------------------------
 
-I recently became a Junior FullStack Developer and i recently finished an Intensive Bootcamp @ Academia de Código, now I'm looking for my first opportunity to work in this field, in the meantime I've been doing other courses in different learning platforms and some of my own projects.
+I recently became a Junior FullStack Developer and just completed an Intensive Bootcamp @ Academia de Código, now I'm looking for my first opportunity to work in this field, in the meantime I've been doing other courses in different learning platforms and some of my own projects.
 
 * 🌍  I'm based in Setúbal, Portugal
 * ✉️  You can contact me at [pedro\_campos7@hotmail.com](mailto:pedro_campos7@hotmail.com)

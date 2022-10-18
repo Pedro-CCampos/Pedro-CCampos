@@ -10,7 +10,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 
 * 🌍  I'm based in Setúbal, Portugal
 * ✉️  You can contact me @ [Email](mailto:pedro_campos7@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/pedroccampos/)
-* 🧠  I'm learning Kubernetes
+* 🧠  I'm learning Spring Security and Kubernetes
 * 📖  Here you can find my <a href="https://drive.google.com/file/d/15_AAaEfSLF4IhzSaR1LoDLQyPVHsQzQD/view?usp=sharing%22%3EHERE"><b>CV</b></a>
 * 💼  I'm currently looking for a job
 

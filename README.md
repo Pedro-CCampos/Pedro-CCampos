@@ -23,7 +23,6 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <th>Java</th>
 <th>Spring</th>
-<th>Thymeleaf</th>
 <th>Hibernate</th>
 <th>MySQL</th>
 
@@ -31,7 +30,6 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <td align="center"><img align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height=50 width=50></td>
 <td align="center"><img align="center" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" height=50 width=50></td>
-<td align="center"><img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" height=50 width=50></td>
 <td align="center"><img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height=50 width=50></td>
 </tr>
@@ -43,6 +41,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <th>JavaScript</th>
 <th>jQuery</th>
+<th>Thymeleaf</th>
 <th>HTML</th>
 <th>CSS</th>
 <th>Bootstrap</th>
@@ -50,6 +49,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height=50 width=50></td>
 <td align="center"><img src="https://user-images.githubusercontent.com/72756958/196269480-c6d70b96-0268-4e52-874b-b8ad6bfed4e6.png" height=50 width=50></td>
+<td align="center"><img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" height=50 width=50></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50 width=50></td>
 <td align="center"><img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=50 width=50></td>

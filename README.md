@@ -23,6 +23,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <th>Java</th>
 <th>Spring</th>
+<th>Thymeleaf</th>
 <th>Hibernate</th>
 <th>MySQL</th>
 
@@ -30,6 +31,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <td align="center"><img align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height=50 width=50></td>
 <td align="center"><img align="center" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" height=50 width=50></td>
+<td align="center"><img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" height=50 width=50></td>
 <td align="center"><img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height=50 width=50></td>
 </tr>

@@ -29,8 +29,8 @@ I have always loved everything that has to do with technology, and I'm also a hu
 </tr>
 <tr>
 <td align="center"><img align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height=50 width=50></td>
-<td align="center"><img align="center" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" height=50 width=50></td>
-<td align="center"><img src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png" height=50 width=50></td>
+<td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" height=50 width=50></td>
+<td align="center"><img src="https://www.thymeleaf.org/images/thymeleaf.png" height=50 width=50></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height=50 width=50></td>
 </tr>
 </table>

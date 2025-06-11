@@ -1,11 +1,10 @@
 Hi my name is Pedro Campos ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Junior FullStack Developer
+FullStack Developer
 --------------------------
 
-I have always loved everything that has to do with technology, and I'm also a huge fan of sports and have practiced a wide range of sports. I started to become fascinated with programming from an early age because I was always curious to how robots, games and programs worked,and had tried to learn programming languages from YouTube when I was younger, that curiosity was what made me try to find an opportunity in programming. Recently I became a Junior Full Stack Developer and just completed an Intensive Bootcamp @ Academia de Código, now I'm looking for my first opportunity to work in this field, in the meantime I've been doing other courses in different learning platforms and some of my own projects.
-
+I have always been passionate about technology, and I'm also a dedicated sports enthusiast who has practiced a wide range of sports. I started to become fascinated with programming from an early age because I was always curious about how robots, games, and programs worked, and had tried to learn programming languages from YouTube when I was younger, that curiosity was what made me try to find an opportunity in programming. I took an Intensive Bootcamp @ Academia de Código and became a Full Stack Developer, now having over 2 years of experience in the field.
 <br/>
 
 * 🌍  I'm based in Setúbal, Portugal
@@ -30,7 +29,7 @@ I have always loved everything that has to do with technology, and I'm also a hu
 <tr>
 <td align="center"><img align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height=50 width=50></td>
 <td align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" height=50 width=50></td>
-<td align="center"><img src="https://www.thymeleaf.org/images/thymeleaf.png" height=50 width=50></td>
+<td align="center"><img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" height=50 width=50></td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height=50 width=50></td>
 </tr>
 </table>
